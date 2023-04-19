@@ -3,7 +3,7 @@
 Institut für Akustik und Sprachkommunikation, Technische Universität Dresden, 
 Dresden
 - Weblink:
-[https://github.com/TUD-STKS/TemplateRepository](https://github.com/TUD-STKS/TemplateRepository)
+[https://github.com/renierts/pyrcn-time-series-prediction](https://github.com/renierts/pyrcn-time-series-prediction)
 
 ## Zusammenfassung
 Dieses Repository ist ein Dieses Tutorial ist eine Einführung in die Zeitreihenvorhersage. Ziel ist es, verschiedene Modelle zur Zeitreihenvorhersage zu implementieren.
@@ -30,16 +30,7 @@ Hauptsächlich ist dieses Tutorial in drei Teile gegliedert:
     - Vortrainierte Modelle.
 
 ## Usage
-The easiest way to reproduce the results is to use a service like 
-[Binder](https://mybinder.org/) and run the Jupyter Notebook (if available). It is 
-nowadays highly recommended, because this does not even require a local installation 
-and Jupyter Notebooks are very intuitive to use.
-
-Do not forget to add a badge from Binder as below. Therefore, you can simply paste the
-link to your Github repository [here](https://mybinder.org/) and Binder will do the 
-rest for you.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TUD-STKS/SupplementalCodeTemplate/HEAD?labpath=src%2FExample-Notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/renierts/pyrcn-time-series-prediction/HEAD)
 
 To run the scripts or to start the Jupyter Notebook locally, at first, please ensure 
 that you have a valid Python distribution installed on your system. Here, at least 
