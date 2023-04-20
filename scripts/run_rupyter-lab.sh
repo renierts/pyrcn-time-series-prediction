@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# "Template Repository for Research Papers with Python Code"
+# "Zeitreihenvorhersage von Stromverbräuchen in Deutschland"
 #
-# Copyright (C) 2022 Peter Steiner
+#  Copyright (C) 2023 Peter Steiner
 # License: BSD 3-Clause
 
 python3 -m venv .virtualenv

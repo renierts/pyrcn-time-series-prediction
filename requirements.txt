@@ -4,7 +4,4 @@ pandas
 pyrcn
 seaborn
 jupyterlab
-statsmodels
-prophet
-neuralprophet
-neuralprophet[live]
+scikit-learn
