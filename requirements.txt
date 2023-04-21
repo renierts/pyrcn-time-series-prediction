@@ -3,5 +3,7 @@ matplotlib
 pandas
 pyrcn
 seaborn
+ipywidgets
+ipympl
 jupyterlab
 scikit-learn
